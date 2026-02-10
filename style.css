@@ -52,7 +52,7 @@ color: #303030;
 
 .main-image {
     /* Стили для изображения в первой секции */
-    max width: 715px;
+    max-width: 715px;
 width: 715px;
 height: 508px;
 
@@ -63,7 +63,7 @@ height: 508px;
     /* Стили для второй секции */
     background-color: #fafaff;
     padding: 100px 0px;
-    background-repeat: no-repeat;
+    
 }
 
 select {
@@ -82,6 +82,7 @@ background-color: rgba(255, 255, 255, 0);
 <svg width="1291" height="883" viewBox="0 0 1291 883" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0 0H1440V883H0V0Z" fill="white" />
 </svg>
+background-repeat: no-repeat;
 
 }
 
@@ -95,6 +96,7 @@ color: #303030;
 
 .frameworks-list {
     /* Стили для маркированного списка во второй секции */
+    padding: 0px 20px;
     padding-left: 20px;
     font-weight: 400;
 font-size: 16px;
