@@ -52,9 +52,10 @@ color: #303030;
 
 .main-image {
     /* Стили для изображения в первой секции */
+    max width: 715px;
 width: 715px;
 height: 508px;
-max-width: none;
+
 }
 
 
