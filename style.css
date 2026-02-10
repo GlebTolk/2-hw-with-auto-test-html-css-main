@@ -62,8 +62,7 @@ height: 508px;
 .about-section {
     /* Стили для второй секции */
     background-color: #fafaff;
-    padding-top: 100px 0px;
-    padding-bottom: 100px 0px;
+    padding: 100px 0px;
     background-repeat: no-repeat;
 }
 
